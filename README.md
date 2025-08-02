@@ -1,2 +1,2 @@
-<img width="780" height="580" alt="image" src="https://github.com/user-attachments/assets/c8a83f52-54f9-4dc7-a64d-a3a51b2dae16" />
-
+*Four Card Feature Made Using Grid-Area*
+<img width="1265" height="677" alt="image" src="https://github.com/user-attachments/assets/87d3cf66-4511-4e72-8baa-600b43eddef6" />
